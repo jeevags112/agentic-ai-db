@@ -1,0 +1,6 @@
+{
+  "name": "Agentic Database Schema Designer",
+  "description": "An AI-powered agentic platform for automatic database schema design, normalization, ER diagram visualization, and schema evolution tracking.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
